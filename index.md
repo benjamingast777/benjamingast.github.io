@@ -19,7 +19,7 @@ Through experience in IT infrastructure, technology risk consulting, and data vi
 ## Resume
 
 <p align="center">
-  <img src="Resume Screenshot.png" alt="Ben Gast Resume" width="90%">
+  <img src=" Real Resume Screenshot.png" alt="Ben Gast Resume" width="90%">
 </p>
 
 
