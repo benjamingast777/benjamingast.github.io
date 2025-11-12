@@ -2,6 +2,8 @@ theme: jekyll-theme-minimal
 title: ""
 description: ""
 show_downloads: false
+show_header: false
 darkmode: true
+
 sass:
   style: compressed
