@@ -11,9 +11,18 @@
 
 Business Intelligence and Finance Student | Ohio University  
 
-Welcome to my portfolio.  
-I focus on connecting finance, analytics, and technology to deliver meaningful insights that drive smarter business decisions. My work centers on building data-driven visuals and dashboards that simplify complex information for leadership and operations teams.  
+I’m passionate about transforming data into insight. My interests lie at the intersection of **business intelligence, finance, and analytics**, where I can connect technical data modeling with strategic business impact.  
+Through experience in IT infrastructure, technology risk consulting, and data visualization, I’ve developed a strong foundation for roles in **data analytics, BI consulting, and financial systems analysis**.  
 
+---
+
+## Resume
+
+<p align="center">
+  <img src="Resume Screenshot.png" alt="Ben Gast Resume" width="90%">
+</p>
+
+📄 [Download Resume (PDF)](BenGast_Resume.pdf)
 ---
 
 ## Featured Projects
