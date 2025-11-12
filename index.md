@@ -6,9 +6,7 @@
   <a href="Benjamin%20Gast%20Resume%20-%202025.pdf" target="_blank">Resume</a>
 </div>
 
-# Hi, I'm Ben Gast
-
-Business Intelligence and Finance Student | Ohio University  
+# 
 
 I’m driven by the challenge of turning complex data into clear, actionable insights. My focus lies at the intersection of **business intelligence, financial analytics, and technology consulting**, where I can connect technical problem-solving with strategic decision-making.  
 I take pride in my work ethic, adaptability, and curiosity — traits that push me to continually grow in data analytics, reporting automation, and information systems.  
