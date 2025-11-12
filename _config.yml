@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: Ben Gast Portfolio
 description: Business Intelligence | Finance | Cloud Analytics
 darkmode: true
+sass:
+  style: compressed
